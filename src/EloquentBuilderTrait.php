@@ -19,6 +19,7 @@ trait EloquentBuilderTrait
      */
     protected function applyResourceOptions(Builder $queryBuilder, array $options = [])
     {
+        //
         if (empty($options)) {
             return $queryBuilder;
         }
