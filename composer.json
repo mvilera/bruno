@@ -9,11 +9,6 @@
     "laravel/framework": "~5.4",
     "optimus/architect": "~1.0"
   },
-  "extra": {
-    "branch-alias": {
-      "dev-bugfix": "3.0"
-    }
-  },
   "require-dev": {
     "mockery/mockery": "0.9.*",
     "orchestra/testbench": "~3.1",
